@@ -1,0 +1,13 @@
+opencv-python
+streamlit
+numpy
+tempfile
+subprocess
+pickle
+os
+sys
+sklearn.cluster
+ultralytics
+supervision
+tqdm
+contextlib
